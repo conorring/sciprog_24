@@ -8,4 +8,4 @@ This folder contains code from practical04. In the file "Functions.c", we use C 
 This compiles Functions.c and stores it under functions. The -lm is required when using the math package.
 
 ## Execute
-* Execute ./Functions
+ ./Functions
